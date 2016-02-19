@@ -10,3 +10,5 @@ The program takes in the chioce as an int from 1-9. 0 will close the program. Ea
 void getData(menuItemType menuList[]); This function get the number the user input and match is to the data that is storge. </br>
 void showMenu(menuItemType menuList[], int x);This function display the menu for the user to interact with. </br>
 void printCheck(menuItemType menuList[], int menuOrder[], int x); This funtion add up the order the user makes and the tax and give the total. 
+</br>
+<small>Grading dicloser this is a short program.</small>
